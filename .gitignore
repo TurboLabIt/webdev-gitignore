@@ -32,3 +32,8 @@ __MACOSX
 ehthumbs.db
 Thumbs.db
 desktop.ini
+
+
+# Let's Encrypt #
+#################
+.well-known/
