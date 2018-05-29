@@ -20,6 +20,11 @@ nbproject
 #######
 .svn
 
+# composer #
+############
+.lock
+/vendor/
+
 
 # OS generated files #
 ######################
