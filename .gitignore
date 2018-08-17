@@ -40,3 +40,12 @@ desktop.ini
 # Let's Encrypt #
 #################
 .well-known/
+
+# Node.js #
+###########
+node_modules/
+npm-debug.log
+
+# Bower #
+#########
+bower_components/
