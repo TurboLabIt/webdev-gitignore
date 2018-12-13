@@ -1,0 +1,5 @@
+## Put this in a directory to ignore all of its content BUT the root-level readme.md
+## and this file itself.
+*
+!readme.md
+!.gitignore
