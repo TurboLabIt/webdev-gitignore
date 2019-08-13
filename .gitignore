@@ -23,7 +23,7 @@ nbproject
 # composer #
 ############
 .lock
-/vendor/
+vendor/
 
 
 # OS generated files #
