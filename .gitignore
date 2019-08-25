@@ -9,7 +9,7 @@ O######################################################################O
 nbproject
 .buildpath
 .project
-.code-workspace
+*.code-workspace
 
 
 # Logs #
