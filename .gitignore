@@ -37,6 +37,11 @@ ehthumbs.db
 Thumbs.db
 desktop.ini
 
+
+# Links  #
+##########
+*.lnk
+
 # Let's Encrypt #
 #################
 .well-known/
