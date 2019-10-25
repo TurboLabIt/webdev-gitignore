@@ -62,8 +62,8 @@ bower_components/
 *.rej
 
 
-# Symfony# #
-############
+# Symfony #
+###########
 /.env.local
 /.env.local.php
 /.env.*.local
