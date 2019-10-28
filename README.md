@@ -3,4 +3,4 @@ A simple, basic .gitignore for web app development. Exclude IDEs and OS folders.
 
 # How to get it
 
-`curl -O https://raw.githubusercontent.com/ZaneCEO/webdev-gitignore/master/.gitignore`
+`curl -o .gitignore https://raw.githubusercontent.com/ZaneCEO/webdev-gitignore/master/.gitignore?$(date +%s)`
