@@ -1,6 +1,8 @@
 ########################################################################
 ### webdev-gitignore by https://github.com/ZaneCEO/webdev-gitignore/ ###
 ########################################################################
+#
+# curl -o .gitignore https://raw.githubusercontent.com/ZaneCEO/webdev-gitignore/master/.gitignore?$(date +%s)
 
 # IDEs #
 ########
