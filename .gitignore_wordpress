@@ -1,0 +1,26 @@
+### webdev-gitignore by https://github.com/ZaneCEO/webdev-gitignore/ ###
+########################################################################
+#
+# curl -o .gitignore https://raw.githubusercontent.com/ZaneCEO/webdev-gitignore/master/.gitignore_wordpress?$(date +%s)
+
+
+# Ignore the whole WordPress #
+##############################
+public/*
+
+# Allow some from /wp-content/ #
+################################
+!public/wp-content/
+public/wp-content/*
+
+# Allow my theme(s) #
+#####################
+!public/wp-content/themes/
+public/wp-content/themes/*
+!public/wp-content/themes/MY-THEME
+
+# Allow my plugin(s) #
+######################
+!public/wp-content/plugins/
+public/wp-content/plugins/*
+!public/wp-content/plugins/MY-PLUGIN
