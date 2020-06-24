@@ -11,6 +11,7 @@ nbproject
 .buildpath
 .project
 *.code-workspace
+.vscode
 
 
 # Logs #
