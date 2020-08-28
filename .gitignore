@@ -12,6 +12,7 @@ nbproject
 .project
 *.code-workspace
 .vscode
+.run
 
 
 # Logs #
@@ -67,10 +68,20 @@ bower_components/
 *.rej
 
 
+## Static files
+/resources/revision.txt
+/resources/static_files/*
+
+
+##
+/public/autodeploy.php
+/wordpress/
+
 ###> symfony/framework-bundle ###
 /.env.local
 /.env.local.php
 /.env.*.local
+/config/secrets/prod/prod.decrypt.private.php
 /public/bundles/
 /var/
 /vendor/
@@ -81,3 +92,8 @@ bower_components/
 .phpunit.result.cache
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
+
+
+## Sitemap
+/public/sitemap/
+/public/sitemap_new/
