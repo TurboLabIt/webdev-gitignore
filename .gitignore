@@ -85,7 +85,6 @@ bower_components/
 /config/secrets/prod/prod.decrypt.private.php
 /public/bundles/
 /var/
-/vendor/
 /src/.preload.php
 ###< symfony/framework-bundle ###
 
