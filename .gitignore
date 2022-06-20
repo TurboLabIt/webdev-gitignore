@@ -75,8 +75,14 @@ bower_components/
 
 ## Autodeploy ##
 ################
-/public/autodeploy.php
+public/autodeploy.php
 public/autodeploy-async.php
+
+
+## Webdriver ##
+################
+drivers/chromediver
+drivers/geckodriver
 
 
 ## Sitemap ##
