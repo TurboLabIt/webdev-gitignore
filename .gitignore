@@ -24,6 +24,7 @@ nbproject
 #######
 .svn
 
+
 # composer #
 ############
 #https://adamcod.es/2013/03/07/composer-install-vs-composer-update.html
@@ -48,9 +49,11 @@ desktop.ini
 ##########
 *.lnk
 
+
 # Let's Encrypt #
 #################
 .well-known/
+
 
 # Node.js #
 ###########
@@ -58,6 +61,7 @@ node_modules/
 npm-debug.log
 package-lock.json
 .sass-cache/
+
 
 # Bower #
 #########
@@ -69,14 +73,17 @@ bower_components/
 *.rej
 
 
-## Static files
-/resources/revision.txt
-/resources/static_files/*
-
-
-##
+## Autodeploy ##
+################
 /public/autodeploy.php
-/wordpress/
+public/autodeploy-async.php
+
+
+## Sitemap ##
+#############
+/public/sitemap/
+/public/sitemap_new/
+
 
 ###> symfony/framework-bundle ###
 /.env.local
@@ -95,6 +102,4 @@ bower_components/
 ###< symfony/phpunit-bridge ###
 
 
-## Sitemap
-/public/sitemap/
-/public/sitemap_new/
+/wordpress/
