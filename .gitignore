@@ -81,7 +81,7 @@ public/autodeploy-async.php
 
 ## Webdriver ##
 ################
-drivers/chromediver
+drivers/chromedriver
 drivers/geckodriver
 
 
