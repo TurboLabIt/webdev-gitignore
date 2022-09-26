@@ -3,24 +3,23 @@
 #
 # curl -o .gitignore https://raw.githubusercontent.com/ZaneCEO/webdev-gitignore/master/.gitignore_wordpress?$(date +%s)
 
-
 # Ignore the whole WordPress #
 ##############################
-public/*
+/*
 
 # Allow some from /wp-content/ #
 ################################
-!public/wp-content/
-public/wp-content/*
+!/wp-content/
+/wp-content/*
 
 # Allow my theme(s) #
 #####################
-!public/wp-content/themes/
-public/wp-content/themes/*
-!public/wp-content/themes/MY-THEME
+!/wp-content/themes/
+/wp-content/themes/*
+!/wp-content/themes/my-app
 
 # Allow my plugin(s) #
 ######################
-!public/wp-content/plugins/
-public/wp-content/plugins/*
-!public/wp-content/plugins/MY-PLUGIN
+!/wp-content/plugins/
+/wp-content/plugins/*
+!/wp-content/plugins/my-app
