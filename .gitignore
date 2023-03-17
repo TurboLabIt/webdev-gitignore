@@ -60,10 +60,6 @@ desktop.ini
 node_modules/
 npm-debug.log
 .sass-cache/
-
-
-# Bower #
-#########
 bower_components/
 
 
@@ -88,6 +84,12 @@ drivers/geckodriver
 #############
 /public/sitemap/
 /public/sitemap_new/
+
+
+## Environment ##
+#################
+# https://github.com/TurboLabIt/bash-fx/blob/main/scripts/app-env.sh
+/env
 
 
 ###> symfony/framework-bundle ###
