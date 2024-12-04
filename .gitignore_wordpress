@@ -1,7 +1,7 @@
-### webdev-gitignore by https://github.com/ZaneCEO/webdev-gitignore/ ###
-########################################################################
+### webdev-gitignore by https://github.com/TurboLabIt/webdev-gitignore ###
+#######################################################################
 #
-# curl -o .gitignore https://raw.githubusercontent.com/ZaneCEO/webdev-gitignore/master/.gitignore_wordpress?$(date +%s)
+# curl -o .gitignore https://raw.githubusercontent.com/TurboLabIt/webdev-gitignore/master/.gitignore_wordpress?$(date +%s)
 
 # Ignore the whole WordPress #
 ##############################
