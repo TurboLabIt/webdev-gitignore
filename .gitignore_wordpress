@@ -1,7 +1,7 @@
-### webdev-gitignore by https://github.com/TurboLabIt/webdev-gitignore ###
+### WordPress webdev-gitignore by https://github.com/TurboLabIt/webdev-gitignore ###
 #######################################################################
 #
-# curl -o .gitignore https://raw.githubusercontent.com/TurboLabIt/webdev-gitignore/master/.gitignore_wordpress?$(date +%s)
+# curl -o .gitignore https://raw.githubusercontent.com/TurboLabIt/webdev-gitignore/master/.gitignore_wordpress
 
 # Ignore the whole WordPress #
 ##############################
