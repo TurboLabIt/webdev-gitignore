@@ -1,0 +1,12 @@
+### .gitignore_symfony by https://github.com/TurboLabIt/webdev-gitignore ###
+##########################################################################
+
+###> symfony/framework-bundle ###
+/.env.local
+/.env.local.php
+/.env.*.local
+/config/secrets/prod/prod.decrypt.private.php
+/public/bundles/
+/var/
+/src/.preload.php
+###< symfony/framework-bundle ###
