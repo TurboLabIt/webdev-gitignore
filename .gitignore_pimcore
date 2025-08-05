@@ -55,4 +55,3 @@
 /postcss.config.js
 /.yarn/
 /public/build
-/public/async-runner-request.php
