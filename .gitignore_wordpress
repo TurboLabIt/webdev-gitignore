@@ -1,26 +1,29 @@
 ### WordPress webdev-gitignore by https://github.com/TurboLabIt/webdev-gitignore ###
 #######################################################################
-#
-# curl -o .gitignore https://raw.githubusercontent.com/TurboLabIt/webdev-gitignore/master/.gitignore_wordpress
 
 # Ignore the whole WordPress #
 ##############################
-/*
-!/.gitignore
+/public/*
 
 # Allow some from /wp-content/ #
 ################################
-!/wp-content/
-/wp-content/*
+!/public/wp-content/
+/public/wp-content/*
 
 # Allow my theme(s) #
 #####################
-!/wp-content/themes/
-/wp-content/themes/*
-!/wp-content/themes/my-app
+!/public/wp-content/themes/
+/public/wp-content/themes/*
+!/public/wp-content/themes/my-app
+/public/wp-content/themes/my-app/assets/js/build/
+/public/wp-content/themes/my-app/assets/scss/build/
+/public/wp-content/themes/my-app/font/
+/public/wp-content/themes/my-app/*.ttf
+/public/wp-content/themes/my-app/*.eot
+/public/wp-content/themes/my-app/assets/js/bootstrap/js/
 
 # Allow my plugin(s) #
 ######################
-!/wp-content/plugins/
-/wp-content/plugins/*
-!/wp-content/plugins/my-app
+!/public/wp-content/plugins/
+/public/wp-content/plugins/*
+!/public/wp-content/plugins/my-app
