@@ -102,14 +102,3 @@ drivers/geckodriver
 .phpunit.cache
 .phpunit.result.cache
 /phpunit.xml
-
-
-###> symfony/framework-bundle ###
-/.env.local
-/.env.local.php
-/.env.*.local
-/config/secrets/prod/prod.decrypt.private.php
-/public/bundles/
-/var/
-/src/.preload.php
-###< symfony/framework-bundle ###
