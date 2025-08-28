@@ -1,7 +1,7 @@
 ### webdev-gitignore by https://github.com/TurboLabIt/webdev-gitignore ###
 ########################################################################
 #
-# curl -o .gitignore https://github.com/TurboLabIt/webdev-gitignore/master/.gitignore_contents?$(date +%s)
+# curl -o .gitignore https://github.com/TurboLabIt/webdev-gitignore/master/.gitignore_contents
 
 ## Put this in a directory to ignore all of its content BUT the root-level readme.md
 ## and this file itself.
