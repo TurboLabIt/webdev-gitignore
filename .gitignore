@@ -1,7 +1,5 @@
-### webdev-gitignore by https://github.com/TurboLabIt/webdev-gitignore ###
+### webdev-gitignore - https://github.com/TurboLabIt/webdev-gitignore ###
 ##########################################################################
-#
-# curl -o .gitignore https://raw.githubusercontent.com/TurboLabIt/webdev-gitignore/master/.gitignore
 
 # IDEs #
 ########
