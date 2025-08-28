@@ -1,7 +1,7 @@
 ### .gitignore_contents - https://github.com/TurboLabIt/webdev-gitignore ###
 ############################################################################
 #
-# Ignore all files BUT readme.md and this file itself.
+# Ignore ALL files BUT readme.md and this file itself.
 
 *
 !readme.md
