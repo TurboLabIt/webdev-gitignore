@@ -15,7 +15,7 @@
 !/public/wp-content/themes/
 /public/wp-content/themes/*
 !/public/wp-content/themes/my-app
-!/public/wp-content/themes/my-app/vendor/
+/public/wp-content/themes/my-app/vendor/
 /public/wp-content/themes/my-app/assets/js/build/
 /public/wp-content/themes/my-app/assets/scss/build/
 /public/wp-content/themes/my-app/font/
