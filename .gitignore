@@ -30,7 +30,7 @@ nbproject
 /vendor/
 
 
-# OS generated files #
+# OS files #
 ######################
 __MACOSX
 *.DS_Store*
@@ -40,10 +40,6 @@ __MACOSX
 ehthumbs.db
 Thumbs.db
 desktop.ini
-
-
-# Links  #
-##########
 *.lnk
 
 
@@ -56,7 +52,6 @@ desktop.ini
 ###########
 node_modules/
 bower_components/
-npm-debug.log
 .sass-cache/
 .yarnrc.yml
 .yarn
