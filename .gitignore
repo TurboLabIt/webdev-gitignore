@@ -11,6 +11,7 @@ nbproject
 *.code-workspace
 .vscode
 .run
+.cursor
 
 
 # Logs #
