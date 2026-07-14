@@ -1,8 +1,7 @@
 ### webdev-gitignore - https://github.com/TurboLabIt/webdev-gitignore ###
 ##########################################################################
 
-# IDEs #
-########
+## IDEs
 .idea
 .settings
 nbproject
@@ -14,25 +13,21 @@ nbproject
 .cursor
 
 
-# Logs #
-########
+## Logs
 *.log
 
 
-# SVN #
-#######
+## SVN
 .svn
 
 
-# composer #
-############
+## composer
 #https://adamcod.es/2013/03/07/composer-install-vs-composer-update.html
 #composer.lock
 /vendor/
 
 
-# OS files #
-######################
+## OS files
 __MACOSX
 *.DS_Store*
 ._*
@@ -44,13 +39,20 @@ desktop.ini
 *.lnk
 
 
-# Let's Encrypt #
-#################
+## Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+
+
+## Let's Encrypt
 .well-known/
 
 
-# Node.js #
-###########
+## Node.js
 node_modules/
 bower_components/
 .sass-cache/
@@ -60,38 +62,32 @@ bower_components/
 .pnp.loader.mjs
 
 
-# Patches #
-###########
+## Patches
 *.rej
 
 
-## Autodeploy ##
-################
+## Autodeploy
 public/autodeploy.php
 public/autodeploy-async.php
 public/async-runner-request.php
 
 
-## Webdriver ##
-################
+## Webdriver
 drivers/chromedriver
 drivers/geckodriver
 
 
-## Sitemap ##
-#############
+## Sitemap
 /public/sitemap/
 /public/sitemap_new/
 
 
-## Environment ##
-#################
+## Environment
 # https://github.com/TurboLabIt/bash-fx/blob/main/scripts/app-env.sh
 /env
 
 
-## phpunit ##
-#################
+## phpunit
 .phpunit
 .phpunit.cache
 .phpunit.result.cache
