@@ -22,8 +22,7 @@ nbproject
 
 
 ## composer
-#https://adamcod.es/2013/03/07/composer-install-vs-composer-update.html
-#composer.lock
+#composer.lock https://adamcod.es/2013/03/07/composer-install-vs-composer-update.html
 /vendor/
 
 
@@ -82,8 +81,7 @@ drivers/geckodriver
 /public/sitemap_new/
 
 
-## Environment
-# https://github.com/TurboLabIt/bash-fx/blob/main/scripts/app-env.sh
+## bash-fx env override https://github.com/TurboLabIt/bash-fx/blob/main/scripts/app-env.sh
 /env
 
 
@@ -92,3 +90,4 @@ drivers/geckodriver
 .phpunit.cache
 .phpunit.result.cache
 /phpunit.xml
+/bin/.phpunit.result.cache
