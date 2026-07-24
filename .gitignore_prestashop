@@ -1,4 +1,6 @@
 ### PrestaShop webdev-gitignore by https://github.com/TurboLabIt/webdev-gitignore ###
-#######################################################################
+#####################################################################################
 
-## Based on: https://github.com/PrestaShop/PrestaShop/blob/develop/.gitignore
+/public/vendor/
+/public/modules/*
+/public/admin-*/autoupgrade/
