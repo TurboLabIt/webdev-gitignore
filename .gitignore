@@ -60,6 +60,7 @@ bower_components/
 .pnp.cjs
 .pnp.loader.mjs
 /build/
+/.agents/skills/react-router/
 
 
 ## Patches
